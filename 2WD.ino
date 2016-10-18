@@ -22,7 +22,7 @@ void loop() {
 Right(200);
 }
 
-long getDistance(){ //Retuns the distance to the object in cm
+long getDistance(){ //Returns the distance to the object in cm
 digitalWrite(trig, LOW);
 delayMicroseconds(2);
 digitalWrite(trig, HIGH);
