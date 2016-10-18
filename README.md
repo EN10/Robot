@@ -1,4 +1,4 @@
-Robot using Arduino used in CIC Summer School   
+Robot built using Arduino used in CIC Summer School   
 
 Uses Sonar to avoid obstacles   
 
